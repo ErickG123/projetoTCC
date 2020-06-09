@@ -9,12 +9,18 @@
 
 ## Quais componentes foram utililizados no projeto?
 * Módulo Sensor de Luminosidade Luz LDR;
-* Led Alto Brilho 5mm Branco;
+* LED Alto Brilho 5mm Branco;
 * Módulo Bluetooth HC-06;
 * Micro Servo Motor;
 * Arduino Mega;
 * Resistores;
 * Jumpers.
+
+## Como funciona?
+* Módulo Bluetooth => Conecta o aplicativo mobile com o Arduino.
+* Micro Servo Motor => Simula o abrir e fechar do um portão e/ou porta.
+* LED's => Simula as lâmpadas de uma casa.
+* Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente:
 
 ## Circuito Arduino:
 ![Circuito](Circuito.PNG)
