@@ -4,8 +4,8 @@
 * Automação Residencial.
 
 ## Qual o objetivo do projeto?
-* Controlar através de um aplicativo mobile feito utilizando o App Invertor componentes de Arduino, por exemplo, controlar um Servo Motor e LED's.
-* Utilizar um Módulo Sensor de Luminosidade Luz LDR para controlar LED's ao anoitecer e/ou amanhecer.
+* Controlar através de um aplicativo mobile feito utilizando o App Invertor componentes do Arduino, por exemplo, controlar um Servo Motor e LED's.
+* Utilizar um Módulo Sensor de Luminosidade Luz LDR para controlar LED's ao anoitecer ou amanhecer.
 
 ## Quais componentes foram utililizados no projeto?
 * Módulo Sensor de Luminosidade Luz LDR;
@@ -17,8 +17,8 @@
 * Jumpers.
 
 ## Como funciona?
-* Módulo Bluetooth => Conecta o aplicativo mobile com o Arduino.
-* Micro Servo Motor => Simula o abrir e fechar do um portão e/ou porta.
+* Módulo Bluetooth => Conecta o aplicativo mobile ao Arduino.
+* Micro Servo Motor => Simula o abrir e fechar de um portão e/ou porta.
 * LED's => Simula as lâmpadas de uma casa.
 * Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente:
 
