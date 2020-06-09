@@ -16,7 +16,11 @@
 * Resistores;
 * Jumpers.
 
-![Circutio](Circuito.PNG)
+## Circuito Arduino:
+![Circuito](Circuito.PNG)
+
+## Aplicativo Mobile:
+![Aplicativo](gifApp.gif)
 
 ## Link's utilizados para estudo:
 * [Brincando com Ideias](https://www.youtube.com/watch?v=1602qoDyeyI&list=PL7CjOZ3q8fMetW0U_kZWjYlU9bIfeHlkn&index=21)
