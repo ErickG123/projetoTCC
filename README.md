@@ -23,11 +23,13 @@
 * Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente:
 
 ## Circuito Arduino:
+- **Observação**: O Módulo Bluetooth da imagem é um HC-05 no projeto original foi utilizado um HC-06
 ![Circuito](Circuito.PNG)
 
 ## Aplicativo Mobile:
 ![Aplicativo](gifApp.gif)
 
 ## Link's utilizados para estudo:
-* [Brincando com Ideias](https://www.youtube.com/watch?v=1602qoDyeyI&list=PL7CjOZ3q8fMetW0U_kZWjYlU9bIfeHlkn&index=21)
-* [Mert Arduino](https://www.youtube.com/watch?v=gL7b8E_5aYs)
+* [Brincando com Ideias - App Invetor](https://www.youtube.com/watch?v=TKPXS7V1YLo&list=PL7CjOZ3q8fMetW0U_kZWjYlU9bIfeHlkn&index=1)
+* [Brincando com Ideias - Módulo Bluetooth HC-06](https://www.youtube.com/watch?v=Zl3IvfNaafA)
+* [Mert Arduino - Módulo Bluetooth e Servo Motor](https://www.youtube.com/watch?v=gL7b8E_5aYs)
