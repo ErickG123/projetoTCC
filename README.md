@@ -32,4 +32,6 @@
 ## Link's utilizados para estudo:
 * [Brincando com Ideias - App Invetor](https://www.youtube.com/watch?v=TKPXS7V1YLo&list=PL7CjOZ3q8fMetW0U_kZWjYlU9bIfeHlkn&index=1)
 * [Brincando com Ideias - Módulo Bluetooth HC-06](https://www.youtube.com/watch?v=Zl3IvfNaafA)
+* [Felipeflop - Biblioteca Sensor Ultrassônico](https://github.com/filipeflop/Ultrasonic)
+* [Felipeflop - Sensor Ultrassônico](https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/)
 * [Mert Arduino - Módulo Bluetooth e Servo Motor](https://www.youtube.com/watch?v=gL7b8E_5aYs)
