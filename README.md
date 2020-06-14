@@ -17,10 +17,14 @@
 * Jumpers.
 
 ## Como funciona?
-* Módulo Bluetooth => Conecta o aplicativo mobile ao Arduino.
-* Micro Servo Motor => Simula o abrir e fechar de um portão e/ou porta.
 * LED's => Simula as lâmpadas de uma casa.
-* Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente:
+  * [Explicação do funcionamento de um LED](https://www.tinkercad.com/things/iOL7NBrAu8j)
+* Micro Servo Motor => Simula o abrir e fechar de um portão e/ou porta.
+  * [Explicação do funcionamento de um Servo](https://www.tinkercad.com/things/loeHaVJ1HeW)
+* Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente.
+  * [Explicação do funcionamento de um Sensor de Luminosidade](https://www.tinkercad.com/things/eAfNN0GAzWr)
+* Módulo Bluetooth => Conecta o aplicativo mobile ao Arduino.
+  * [Explicação do fundionamento do Módulo Bluetooth](https://www.youtube.com/watch?v=Zl3IvfNaafA)
 
 ## Circuito Arduino:
 - **Observação**: O Módulo Bluetooth da imagem é um HC-05 no projeto original foi utilizado um HC-06
@@ -32,6 +36,5 @@
 ## Link's utilizados para estudo:
 * [Brincando com Ideias - App Invetor](https://www.youtube.com/watch?v=TKPXS7V1YLo&list=PL7CjOZ3q8fMetW0U_kZWjYlU9bIfeHlkn&index=1)
 * [Brincando com Ideias - Módulo Bluetooth HC-06](https://www.youtube.com/watch?v=Zl3IvfNaafA)
-* [Felipeflop - Biblioteca Sensor Ultrassônico](https://github.com/filipeflop/Ultrasonic)
-* [Felipeflop - Sensor Ultrassônico](https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/)
+* [Brincando com Ideias - Sensor de Luz LDR](https://www.youtube.com/watch?v=t_m4XrHlawI)
 * [Mert Arduino - Módulo Bluetooth e Servo Motor](https://www.youtube.com/watch?v=gL7b8E_5aYs)
