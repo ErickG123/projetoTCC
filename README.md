@@ -17,13 +17,13 @@
 * Jumpers.
 
 ## Como funciona?
-* LED's => Simula as lâmpadas de uma casa.
+* LED's: Simula as lâmpadas de uma casa.
   * [Explicação do Funcionamento de um LED](https://www.tinkercad.com/things/iOL7NBrAu8j)
-* Micro Servo Motor => Simula o abrir e fechar de um portão e/ou porta.
+* Micro Servo Motor: Simula o abrir e fechar de um portão e/ou porta.
   * [Explicação do Funcionamento de um Servo](https://www.tinkercad.com/things/loeHaVJ1HeW)
-* Sensor de Luminosidade => Responsável por controlar os LED's de acordo com a luminosidade do ambiente.
+* Sensor de Luminosidade: Responsável por controlar os LED's de acordo com a luminosidade do ambiente.
   * [Explicação do Funcionamento de um Sensor de Luminosidade](https://www.tinkercad.com/things/eAfNN0GAzWr)
-* Módulo Bluetooth => Conecta o aplicativo mobile ao Arduino.
+* Módulo Bluetooth: Conecta o aplicativo mobile ao Arduino.
   * [Explicação do Funcionamento do Módulo Bluetooth](https://www.youtube.com/watch?v=Zl3IvfNaafA)
 
 ## Circuito Arduino:
